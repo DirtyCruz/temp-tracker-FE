@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LocationDetails component renders LocationDetails 1`] = `
+<Fragment>
+  <h3>
+    Portland
+  </h3>
+  <ul>
+    <li
+      key="0"
+    >
+      <LocationDetail
+        temp={4}
+      />
+    </li>
+    <li
+      key="1"
+    >
+      <LocationDetail
+        temp={5}
+      />
+    </li>
+    <li
+      key="2"
+    >
+      <LocationDetail
+        temp={7}
+      />
+    </li>
+  </ul>
+</Fragment>
+`;

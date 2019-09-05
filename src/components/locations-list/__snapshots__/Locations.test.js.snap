@@ -2,8 +2,12 @@
 
 exports[`Locations component renders Locations 1`] = `
 <ul>
-  <li>
-    <Location />
+  <li
+    key="Portland"
+  >
+    <Location
+      location="Portland"
+    />
   </li>
 </ul>
 `;
