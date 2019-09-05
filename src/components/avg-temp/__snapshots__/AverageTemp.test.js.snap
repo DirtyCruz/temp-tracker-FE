@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AverageTemp component renders AverageTemp 1`] = `
+<Fragment>
+  <h3>
+    Average Temperatures
+  </h3>
+  <h4>
+    55
+  </h4>
+</Fragment>
+`;
