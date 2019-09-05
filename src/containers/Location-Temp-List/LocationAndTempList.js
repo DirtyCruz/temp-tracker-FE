@@ -8,6 +8,10 @@ class LocationAndTempList extends Component {
     //a fetch will live in here
   }
 
+  componentDidUpdate() {
+    //we might need this lifecycle depending on how we are using the data
+  }
+
   render() {
     return (
       //we will need to give Locations the array
