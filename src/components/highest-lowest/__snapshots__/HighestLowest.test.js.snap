@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HighestLowest component renders HighestLowest 1`] = `
+<Fragment>
+  <span>
+    <h4>
+      Location with highest temp:
+    </h4>
+    <h4 />
+  </span>
+  <span>
+    <h4>
+      Location with lowest temp:
+    </h4>
+    <h4 />
+  </span>
+</Fragment>
+`;
