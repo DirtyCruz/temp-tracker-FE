@@ -31,8 +31,3 @@ export default connect(
   // mapStateToProps,
   // mapDispatchToProps
 )(HighestLowestDisplay);
-
-//TO DO
-//create the detail view page/container
-//make pages folder
-//add CORS to the backend
